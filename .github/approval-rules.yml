@@ -1,0 +1,5 @@
+production:
+  requiredApprovals: 2
+  approvers:
+    - ayushk048-Tandem
+    - ahingarajiya161
